@@ -1,3 +1,5 @@
+#creates character set ( A to Z ) lower or uppercase
+
 def abc(start, end, letter_case= None):
         letters = []
         for letter in range(ord(start), ord(end)+1 ):
