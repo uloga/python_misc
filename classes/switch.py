@@ -18,6 +18,7 @@ class Switch:
 def main():
 
     value = 'three'
+    
     for case in Switch(value):
         if case('one'):
             print('this is first')
