@@ -1,4 +1,5 @@
-#creates character set ( A to Z ) lower or uppercase
+# #####################################################
+# creates character set ( A to Z ) lower or uppercase
 
 def abc(start, end, letter_case= None):
         letters = []
