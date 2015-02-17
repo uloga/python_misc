@@ -1,4 +1,5 @@
-#simple switch class
+#######################
+# simple switch class
 
 class Switch:
     def __init__(self, case=None):
